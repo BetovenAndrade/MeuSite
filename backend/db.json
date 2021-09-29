@@ -1,0 +1,29 @@
+{
+  "programadores": [
+    {
+      "id": 1,
+      "nome": "Betoven",
+      "linguagem_preferida": "Java"
+    },
+    {
+      "id": 2,
+      "nome": "Markus",
+      "linguagem_preferida": "PHP"
+    },
+    {
+      "id": 3,
+      "nome": "Felipe",
+      "linguagem_preferida": "Python"
+    },
+    {
+      "nome": "novata",
+      "linguagem_preferida": "R",
+      "id": 4
+    },
+    {
+      "nome": "novato",
+      "linguagem_preferida": "Javascript",
+      "id": 5
+    }
+  ]
+}
