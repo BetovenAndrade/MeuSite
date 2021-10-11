@@ -17,3 +17,7 @@
     padding-right: 0.35em;
     max-height: 32px;
 }
+
+.mat-toolbar.footer_cor {
+    background: #F2D1A0;
+}

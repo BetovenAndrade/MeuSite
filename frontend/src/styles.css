@@ -7,9 +7,7 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
     color: #F2541B;
 }
 
-.laranja_claro{
-    color: #F27405;
-}
+
 
 .vermelho{
     color: #F20505;
@@ -21,4 +19,36 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 
 .preto{
     color: #0D0D0D;
+}
+
+.telha_escuro{
+    color: #A36C65;
+}
+
+.telha_claro{
+    color: #F09489;
+}
+
+.azul_ceu{
+    color: #7CE9F0;
+}
+
+.marron{
+    color: #70614A;
+}
+
+.marron_medio{
+    color: #BD8C44;
+}
+
+.marron_claro{
+    color: #F2D1A0;
+}
+
+.amarelo_queimado{
+    color: #F0B256;
+}
+
+.creme{
+    color: #F0C571;
 }
